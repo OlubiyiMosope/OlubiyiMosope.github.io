@@ -18,6 +18,10 @@ Credits:
 	Social Preview Images:
 		All project social preview images were sourced from www.pexel.com
 
+	Demo Images:
+		Felicia Simion (ineedchemicalx.deviantart.com)
+		Unsplash (unsplash.com)
+
 	Icons:
 		Font Awesome (fontawesome.io)
 
